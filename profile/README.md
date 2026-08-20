@@ -118,4 +118,3 @@ If you use ePlanSys in academic work, please cite both this project and PlanSys2
 Let’s make formal epistemic reasoning practical.
 ``` 
 
-Want me to adjust the tone (more academic / more engineering-focused), add installation details, or include a specific section?
