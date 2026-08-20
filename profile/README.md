@@ -116,5 +116,3 @@ If you use ePlanSys in academic work, please cite both this project and PlanSys2
 
 **Made for the robotics community.**  
 Let’s make formal epistemic reasoning practical.
-``` 
-
