@@ -1,7 +1,7 @@
 # ePlanSys — Epistemic Planning System for ROS 2
 
 <p align="center">
-  <img src="eplansys_docs/eplansys.png" alt="ePlanSys Logo" width="280"/>
+  <img src="eplansys_docs/eplansys.png" alt="ePlanSys" width="280"/>
 </p>
 
 <p align="center">
