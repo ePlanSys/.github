@@ -1,4 +1,4 @@
-# ePlanSys — Epistemic Planning System for ROS 2
+# ePlanSys. Epistemic Planning System for ROS 2
 
 <p align="center">
   <img src="eplansys_docs/eplansys.png" alt="ePlanSys" width="280"/>
@@ -14,7 +14,7 @@
 
 **ePlanSys** (Epistemic Planning System) is a ROS 2 framework that brings **Dynamic Epistemic Logic (DEL)** reasoning into practical robotic planning.
 
-It extends [ePlanSys](https://eplansys.github.io/eplansys/index.html) with native support for epistemic planning, enabling robots to reason about knowledge, beliefs, and partial observability in multi-robot scenarios.
+It extends [PlanSys2](https://plansys2.github.io/) with native support for epistemic planning, enabling robots to reason about knowledge, beliefs, and partial observability in multi-robot scenarios.
 
 ### Key Features
 
