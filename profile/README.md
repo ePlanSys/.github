@@ -73,7 +73,7 @@ source install/setup.bash
 
 ### Documentation & Background
 
-- [PlanSys2 Documentation](https://eplansys.github.io/eplansys/index.html) — highly recommended as foundation
+- [PlanSys2 Documentation](https://plansys2.github.io/) *highly recommended as foundation*
 - Dynamic Epistemic Logic literature and EPDDL specifications
 
 ---
