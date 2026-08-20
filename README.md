@@ -1,6 +1,3 @@
-Here’s a solid, clean raw Markdown README you can use for the org version:
-
-```markdown
 # ePlanSys — Epistemic Planning System for ROS 2
 
 <p align="center">
@@ -119,8 +116,6 @@ If you use ePlanSys in academic work, please cite both this project and PlanSys2
 
 **Made for the robotics community.**  
 Let’s make formal epistemic reasoning practical.
-```
-
-You can copy-paste this directly into `README.md`.  
+``` 
 
 Want me to adjust the tone (more academic / more engineering-focused), add installation details, or include a specific section?
